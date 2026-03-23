@@ -53,7 +53,7 @@ Topology structure:
 
 - Router ↔ Switch: Straight-through cable  
 - Switch ↔ PC: Straight-through cable  
-- Console cable used for router configuration  
+- Router was configured using the CLI interface in Cisco Packet Tracer to assign IP addresses and enable interfaces.
 
 ---
 
@@ -95,16 +95,10 @@ Topology structure:
 - Connectivity issues resolved using troubleshooting techniques
 
 
-## 📸 Screenshot
-
-*
-
-
----
-
 ## 📁 Files Included
 
 - `small-office-network.pkt`
+- `images/topology.png`
 
 ---
 
