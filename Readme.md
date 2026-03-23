@@ -15,6 +15,7 @@ The network consists of:
 - 1 Printer
 
 Topology structure:
+![Topology](images/topology.png)
 
 
 
